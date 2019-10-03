@@ -2,9 +2,9 @@
 replicaCount: 2
 
 image:
-  repository: spjenk/hello
+  repository: seshuad/helloeks3
   tag: latest
-  pullPolicy: IfNotPresent
+  pullPolicy: Always 
 
 nameOverride: ""
 fullnameOverride: ""
