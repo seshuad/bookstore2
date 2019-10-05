@@ -2,7 +2,7 @@
 replicaCount: 2
 
 image:
-  repository: seshuad/helloeks3
+  repository: seshuad/helloeks4
   tag: latest
   pullPolicy: Always 
 

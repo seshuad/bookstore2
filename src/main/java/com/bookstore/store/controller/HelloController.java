@@ -1,4 +1,4 @@
-package com.spjenk.hello;
+package com.bookstore.store.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

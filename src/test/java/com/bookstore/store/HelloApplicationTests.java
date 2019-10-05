@@ -1,4 +1,4 @@
-package com.spjenk.hello;
+package com.bookstore.store;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

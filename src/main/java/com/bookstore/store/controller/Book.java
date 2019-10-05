@@ -1,4 +1,4 @@
-package com.spjenk.hello;
+package com.bookstore.store.controller;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

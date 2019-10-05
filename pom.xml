@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.spjenk</groupId>
-	<artifactId>helloeks3</artifactId>
+	<artifactId>bookstore2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello</name>
 	<description>Demo project for Spring Boot</description>
